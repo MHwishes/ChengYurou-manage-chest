@@ -1,0 +1,19 @@
+{
+  "name": "manage-chest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "errorhandler": "^1.4.3",
+    "morgan": "^1.7.0",
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0"
+  }
+}
